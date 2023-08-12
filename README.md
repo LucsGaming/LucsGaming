@@ -1,0 +1,3 @@
+- Hey you, my name is Lucas !
+- I'm currently learning Python
+- I want to know how games work and, potentially, create mine !
